@@ -1,2 +1,8 @@
-# local-ai-docker-stack
-Stack Docker Compose optimizado para desplegar modelos de IA locales con Ollama y WebUI. Incluye botones de donación y soporte directo.
+# Local AI Docker Stack
+
+Despliega modelos de IA locales (Llama 3, Mistral, Ollama) en minutos con este stack listo para producción.
+
+## Pasarela de Apoyo y Donación
+Si esta herramienta te ha ahorrado horas de configuración, apoya el desarrollo:
+- [PayPal ($5 USD)](https://paypal.me/LucianoBenechCenoz)
+- USDT (TRC20/Polygon): `TYndYVBb42q6U79tCm3VQzzhv2FtwAndhc`
